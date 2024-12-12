@@ -1,0 +1,47 @@
+/* DEVELOPER: Viswa, IS117-xxx, Spring 2024 */
+
+
+body {
+	
+    font-family: Arial, sans-serif;
+}
+
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+
+.carousel-caption {
+	
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+	font-weight: bold;
+}
+
+
+.card {
+	
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.footer {
+	
+    font-size: 0.9em;
+}
+
+
+.carousel-container {
+	
+    background-color: black; 
+    text-align: center;
+}
+
+
+.carousel-img {
+	
+    max-width: 50%; 
+    height: auto;
+    margin: 0 auto; 
+    display: block;
+}
