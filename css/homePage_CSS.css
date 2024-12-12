@@ -42,6 +42,5 @@ body {
     width: auto; 
     height: 700px;
     margin: 0 auto; 
-	object-fit: cover;
     display: block;
 }
