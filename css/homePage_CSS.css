@@ -1,0 +1,47 @@
+/* DEVELOPER: Viswa Puligedda, IS117-005, Spring 2024 */
+
+
+body {
+	
+    font-family: Arial, sans-serif;
+}
+
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+
+.carousel-caption {
+	
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+}
+
+
+.card {
+	
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.footer {
+	
+    font-size: 0.9em;
+}
+
+
+.carousel-container {
+	
+    background-color: black; 
+    text-align: center;
+}
+
+
+.carousel-img {
+	
+    width: auto; 
+    height: 700px;
+    margin: 0 auto; 
+	object-fit: cover;
+    display: block;
+}
