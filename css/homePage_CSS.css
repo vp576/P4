@@ -1,0 +1,93 @@
+/* DEVELOPER: Viswa Puligedda, IS117-005, Spring 2024 */
+
+
+body {
+	
+    font-family: Arial, sans-serif;
+	background-color: #7ebcc2;
+}
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.container {
+    flex: 1;
+}
+
+.navbar-brand {
+    font-weight: bold;
+	
+}
+
+
+.navbar .form-control {
+	
+    position: relative;
+    top: 8px;
+}
+
+
+.carousel-caption {
+	
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+}
+
+
+
+.card {
+	
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img {
+	
+    height: 200px; 
+    object-fit: cover; 
+    width: 100%;
+}
+
+.card-body {
+    background-color: #333349;
+    color: white;
+}
+
+
+footer {
+	
+    background-color: #333;
+    color: #fff;
+    font-size: 0.9rem;
+	margin-top: auto;
+}
+
+footer a {
+    color: #f8f9fa;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.carousel-container {
+	
+    background-color: black; 
+    text-align: center;
+}
+
+
+.carousel-img {
+	
+    width: auto; 
+    height: 700px;
+    margin: 0 auto; 
+    display: block;
+}
