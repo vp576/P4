@@ -87,7 +87,15 @@ footer a:hover {
 .carousel-img {
 	
     width: auto; 
-    height: 700px;
+    height: auto;
     margin: 0 auto; 
     display: block;
+}
+
+
+
+@media (max-width: 768px) {
+    .carousel-img {
+        max-height: 300px;
+    }
 }
