@@ -99,3 +99,16 @@ footer a:hover {
         max-height: 300px;
     }
 }
+
+
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+    .carousel-caption {
+        font-size: 0.9rem;
+    }
+}
